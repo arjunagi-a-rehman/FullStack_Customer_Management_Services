@@ -1,0 +1,6 @@
+[submodule "Customer_Management_Service_Backend"]
+	path = Customer_Management_Service_Backend
+	url = https://github.com/arjunagi-a-rehman/customer_management_service.git
+[submodule "Customer_Management_Service_FrontEnd"]
+	path = Customer_Management_Service_FrontEnd
+	url = https://github.com/arjunagi-a-rehman/Customer-Management-Service-frontend.git
